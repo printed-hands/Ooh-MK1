@@ -14,11 +14,11 @@ Print settings:
 - 6 walls;
 - 6 top-bottom layers;
 - 20 — 40% infill (grid);
-- locked 0.4 mm line width
+- Locked 0.4 mm line width
 
 Print in either ABS or ASA. 
 
-Please follow Voron guide on print materials for a general guide on various materials (i.e., PETG, PA6-CF, PA12-CF) at https://docs.vorondesign.com/materials.html.
+Please follow Voron documentation on print materials for a general guide on various materials (i.e., PETG, PA6-CF, PA12-CF) at https://docs.vorondesign.com/materials.html.
 
 | ![ooh-mk1-front-view.png](<pictures/front-view.png>)
 |:--:|
