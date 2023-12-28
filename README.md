@@ -1,4 +1,4 @@
-!Bottom-up view(https://github.com/printed.hands/Ooh-MK1/blob/printed-hands/Ooh-MK1/main/bottom-up view.png?raw=true)
+![Alt text](<.png/.jpeg/.jpg/bottom-up view.png>)
 
 Print in either ABS or ASA. 
 
