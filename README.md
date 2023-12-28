@@ -1,4 +1,16 @@
-| ![ooh-mk1-rear-corner-view.png](<.png/.jpeg/.jpg/bottom-up view.png>)
+| ![ooh-mk1-front-view.png](<.png/.jpeg/.jpg/front-view.png>)
+|:--:|
+| *Front view of fully-assembled Ooh-MK1* |
+
+| ![ooh-mk1-bottom-up-view.png](<.png/.jpeg/.jpg/bottom-up-view.png>)
+|:--:|
+| *Bottom-up view of fully-assembled Ooh-MK1* |
+
+| ![ooh-mk1-rear-view.png](<.png/.jpeg/.jpg/rear-view.png>)
+|:--:|
+| *Rear view of fully-assembled Ooh-MK1* |
+
+| ![ooh-mk1-rear-corner-view.png](<.png/.jpeg/.jpg/rear-corner-view.png>)
 |:--:|
 | *Rear corner view of fully-assembled Ooh-MK1* |
 
