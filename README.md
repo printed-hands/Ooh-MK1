@@ -1,5 +1,6 @@
-![alt text](<.png/.jpeg/.jpg/bottom-up view.png>)
-Rear corner view
+| ![ooh-mk1-rear-corner-view.png](<.png/.jpeg/.jpg/bottom-up view.png>)
+|:--:|
+| *Rear corner view of fully-assembled Ooh-MK1* |
 
 Print in either ABS or ASA. 
 
