@@ -10,6 +10,15 @@ Features:
 - Print support structures are designed into the toolhead and does not require supports enabled;
 - Uses a combination of embedded and trapped nuts (heat-set inserts are only used for the fan mounts) 
 
+Print settings:
+- 6 walls;
+- 6 top-bottom layers;
+- 20 — 40% infill (grid)
+
+Print in either ABS or ASA. 
+
+Please follow Voron guide on print materials for a general guide on various materials (i.e., PETG, PA6-CF, PA12-CF) at https://docs.vorondesign.com/materials.html.
+
 | ![ooh-mk1-front-view.png](<.png/.jpeg/.jpg/front-view.png>)
 |:--:|
 | *Front view of fully-assembled Ooh-MK1* |
@@ -25,12 +34,3 @@ Features:
 | ![ooh-mk1-rear-corner-view.png](<.png/.jpeg/.jpg/rear-corner-view.png>)
 |:--:|
 | *Rear corner view of fully-assembled Ooh-MK1* |
-
-Print settings:
-- 6 walls;
-- 6 top-bottom layers;
-- 20 — 40% infill (grid)
-
-Print in either ABS or ASA. 
-
-Please follow Voron guide on print materials for a general guide on various materials (i.e., PETG, PA6-CF, PA12-CF) at https://docs.vorondesign.com/materials.html.
