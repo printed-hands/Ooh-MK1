@@ -6,7 +6,7 @@ Features:
 - Dual 5015 fans;
 - Dockable probe (Quickdraw, as shown below) ready design;
 - Designed for Bambu Lab hotend compatibility;
-- Designed for Annex Engineering's Sherpa Heavy extruder (Sherpa "Extra" Heavy design, as shown — courtesy of HDz_designs@HDZDesigns_572090 at Printables);
+- Designed for Annex Engineering's Sherpa Heavy extruder (Sherpa "Extra" Heavy design, as shown — courtesy of HDz_designs@HDZDesigns_572090 at Printables, https://www.printables.com/model/549890-sherpa-extra-heavy);
 - Print support structures are designed into the toolhead and does not require supports enabled;
 - Uses a combination of embedded and trapped nuts (heat-set inserts are only used for the fan mounts) 
 
