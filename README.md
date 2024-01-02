@@ -37,7 +37,7 @@ Print in either ABS or ASA.
 
 Please follow Voron documentation on print materials for a general guide on various materials (i.e., PETG, PA6-CF, PA12-CF) at https://docs.vorondesign.com/materials.html.
 
-## Pictures
+## Main preview
 | ![ooh-mk1-front-view.png](<pictures/front-view.png>)
 |:--:|
 | *Front view of fully-assembled Ooh-MK1* |
