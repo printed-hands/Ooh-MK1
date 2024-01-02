@@ -2,7 +2,7 @@ The Ooh toolhead is another alternative for the Switchwire crowd who want to try
 
 For the actual CAD files, the OnShape link is https://cad.onshape.com/documents/3dc4ff1afa58fdd87cbc95ea/w/6365a34d080aac6d95fb3c09/e/4aa010e851021eea551d66ae?renderMode=0&uiState=658d1bbc176b29606f49ac98.
 
-Features:
+**Features:**
 - Dual 5015 fans;
 - Dockable probe (Quickdraw, as shown below) ready design;
 - Designed for Bambu Lab hotend compatibility;
@@ -10,7 +10,7 @@ Features:
 - Print support structures are designed into the toolhead and does not require supports enabled;
 - Uses a combination of embedded and trapped nuts (heat-set inserts are only used for the fan mounts) 
 
- Recommended buys: 
+**Recommended buys:**
 - GDStime 24V dual ball bearing 6k RPM 5015 fans, https://www.aliexpress.com/item/32841967974.html (get the 24V dual ball 8.5k RPM ones if you want the best cooling without moving on to Berd-air or CPAP solutions);
 
 | ![GDStime 24V Dual Ball 8.5k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 8.5k RPM 5015.png>)
@@ -18,6 +18,7 @@ Features:
 | ![GDStime 24V Dual Ball 6k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 6k RPM 5015.png>)
 |:--:|
 | *GDStime 24V Dual Ball 5015 fan options* |
+# put the picture closer to the description if you want that to pop up first
 
 - Sunon 24V Maglev 5015 fans, https://www.aliexpress.com/item/1005006137172839.html?spm=a2g0o.productlist.main.3.192be4e1jjm9BU&algo_pvid=cf6c5282-6338-4ba3-9ce4-ce60896086ff&algo_exp_id=cf6c5282-6338-4ba3-9ce4-ce60896086ff-1&pdp_npi=4%40dis%21EUR%2131.76%2110.8%21%21%21243.90%21%21%402101ef5e17041991691221132edf95%2112000035924658772%21sea%21ES%214419925841%21&curPageLogUid=oNBQhvJhvz6g (these also spin at 6k RPM)
 
@@ -25,7 +26,7 @@ Features:
 |:--:|
 | *Sunon 24V Maglev 5015 fan* |
 
-Print settings:
+**Print settings:**
 - 6 walls;
 - 6 top-bottom layers;
 - 20 — 40% infill (grid);
