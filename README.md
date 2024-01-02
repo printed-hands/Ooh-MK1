@@ -13,9 +13,9 @@ Features:
  Recommended buys: 
 - GDStime 24V dual ball bearing 6k RPM 5015 fans, https://www.aliexpress.com/item/32841967974.html (get the 24V dual ball 8.5k RPM ones if you want the best cooling without moving on to Berd-air or CPAP solutions);
 
-| ![GDStime 24V Dual Ball 6k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 6k RPM 5015.png>)
-|:--:|
 | ![GDStime 24V Dual Ball 8.5k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 8.5k RPM 5015.png>)
+|:--:|
+| ![GDStime 24V Dual Ball 6k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 6k RPM 5015.png>)
 |:--:|
 | *GDStime 24V Dual Ball 5015 fan options* |
 
