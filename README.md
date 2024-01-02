@@ -12,7 +12,17 @@ Features:
 
  Recommended buys: 
 - GDStime 24V dual ball bearing 6k RPM 5015 fans, https://www.aliexpress.com/item/32841967974.html (get the 24V dual ball 8.5k RPM ones if you want the best cooling without moving on to Berd-air or CPAP solutions);
+
+| ![GDStime 24V Dual Ball 6k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 6k RPM 5015.png>)
+| ![GDStime 24V Dual Ball 8.5k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 8.5k RPM 5015.png>)
+|:--:|
+| *GDStime 24V Dual Ball 5015 fan options* |
+
 - Sunon 24V Maglev 5015 fans, https://www.aliexpress.com/item/1005006137172839.html?spm=a2g0o.productlist.main.3.192be4e1jjm9BU&algo_pvid=cf6c5282-6338-4ba3-9ce4-ce60896086ff&algo_exp_id=cf6c5282-6338-4ba3-9ce4-ce60896086ff-1&pdp_npi=4%40dis%21EUR%2131.76%2110.8%21%21%21243.90%21%21%402101ef5e17041991691221132edf95%2112000035924658772%21sea%21ES%214419925841%21&curPageLogUid=oNBQhvJhvz6g (these also spin at 6k RPM)
+
+| ![Sunon 24V Maglev 5015.png](<pictures/Sunon 24V Maglev 5015.png>)
+|:--:|
+| *Sunon 24V Maglev 5015 fan* |
 
 Print settings:
 - 6 walls;
