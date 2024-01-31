@@ -16,9 +16,9 @@ For the actual CAD files, the OnShape link is https://cad.onshape.com/documents/
 
 | ![TaoBao GDStime 24V Dual Ball 8.5k RPM 5015 fan.png](<pictures/TaoBao GDStime 24V Dual Ball 8k RPM 5015.png>)
 |:--:|
-| ![GDStime 24V Dual Ball 8.5k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 8.5k RPM 5015.png>)
+| ![GDStime 24V Dual Ball 8.5k RPM 5015.png](<pictures/GDStime 24V Dual Ball 8.5k RPM 5015.png>)
 |:--:|
-| ![GDStime 24V Dual Ball 6k RPM 5015 fan.png](<pictures/GDStime 24V Dual Ball 6k RPM 5015.png>)
+| ![GDStime 24V Dual Ball 6k RPM 5015.png](<pictures/GDStime 24V Dual Ball 6k RPM 5015.png>)
 |:--:|
 | *GDStime 24V Dual Ball 5015 fan options* |
 <!-- Put the picture closer to the description if you want that to pop up first -->
