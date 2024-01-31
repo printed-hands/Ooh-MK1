@@ -1,6 +1,10 @@
 # What toolhead is this?
 The Ooh toolhead is another alternative for the Switchwire crowd who want to try something other than the Voron toolheads.
 
+| ![ooh-mk1.1-bottom-up-view.png](<pictures/mk1_1-bottomupview.png>)
+|:--:|
+| *Bottom-up view of fully-assembled Ooh-MK1.1* |
+
 For the actual CAD files, the OnShape link is https://cad.onshape.com/documents/3dc4ff1afa58fdd87cbc95ea/w/6365a34d080aac6d95fb3c09/e/4aa010e851021eea551d66ae?renderMode=0&uiState=658d1bbc176b29606f49ac98.
 
 ## Features
